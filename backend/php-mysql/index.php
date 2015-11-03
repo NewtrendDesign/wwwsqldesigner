@@ -2,16 +2,16 @@
 	set_time_limit(0);
 	function setup_saveloadlist() {
 		define("SERVER","localhost");
-		define("USER","");
-		define("PASSWORD","");
-		define("DB","home");
+		define("USER","root");
+		define("PASSWORD","123");
+		define("DB","DB_Model_Information_Schema");
 		define("TABLE","wwwsqldesigner");
 	}
 	function setup_import() {
 		define("SERVER","localhost");
-		define("USER","");
-		define("PASSWORD","");
-		define("DB","information_schema");
+		define("USER","root");
+		define("PASSWORD","123");
+		define("DB","DB_Model_Information_Schema");
 	}
 	class mysqlDB {
 		var $_conn;

@@ -39,8 +39,8 @@
 	<string name="commenttext">输入此列备注</string>
 	
 	<!-- windows & options -->
-	<string name="windowok">搞定</string>
-	<string name="windowcancel">不要了</string>
+	<string name="windowok">确定</string>
+	<string name="windowcancel">取消</string>
 	<string name="throbber">请等待...</string>
 	<string name="options">选项设置</string>
 	<string name="language">语言</string>
